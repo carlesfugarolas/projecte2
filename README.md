@@ -1,2 +1,2 @@
 # projecte2
-![imatge](img/horari25-26.png)
+![imatge](img/HORARI-2025-26.jpg)
